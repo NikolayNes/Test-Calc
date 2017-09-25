@@ -6,7 +6,7 @@
 - `npm i`
 - `npm run pree2e`
 
-## Running end-to-end tests
+## Running end to end tests
 
 - `npm run e2e`
 
